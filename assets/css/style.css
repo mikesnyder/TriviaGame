@@ -1,0 +1,25 @@
+.btn-primary{
+    background: #003865;
+    border-color: #78BE21;
+    border-width: 2px;
+}
+
+.trivia{
+    background: white;
+}
+
+h2{
+    padding-bottom:2rem;
+    color: #003865;
+}
+
+
+.container{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left:0;
+    padding-right:0;
+    margin-top: 3rem;
+    margin-bottom:1rem;
+    border-bottom: 2rem; 
+}
